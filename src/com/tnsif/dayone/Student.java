@@ -1,4 +1,3 @@
-//Program to define Student Entity
 package com.tnsif.dayone;
 
 public class Student {
